@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  go-todo-api:
+    image: go-todo-api
+    ports: 
+      - "8888:8021"
