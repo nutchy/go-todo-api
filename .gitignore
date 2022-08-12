@@ -1,2 +1,3 @@
 .vscode
 go-todo-api
+vendor
